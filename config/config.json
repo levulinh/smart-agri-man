@@ -1,0 +1,10 @@
+{
+  "database": {
+    "username": "levulinh",
+    "password": "Toilalinh96"
+  },
+  "twilio": {
+    "accountSid": "AC33de8c76b689aefa8db965057db9dfea",
+    "authToken": "167e17f68003ab760aa0c6b309027484"
+  }
+}
