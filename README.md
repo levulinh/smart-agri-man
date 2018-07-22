@@ -5,7 +5,7 @@
 ## Đăng ký thành viên mới
 
 > **Đường dẫn:**
->> https://lvl-smart-algae.herokuapp.com/api/register
+>> https://smart-agri-man.herokuapp.com/api/register
 >
 > **Phương thức: POST**
 >
@@ -21,7 +21,7 @@
 >
 ## Đăng nhập thành viên
 > **Đường dẫn:**
->> https://lvl-smart-algae.herokuapp.com/api/login
+>> https://smart-agri-man.herokuapp.com/api/login
 >
 > **Phương thức: POST**
 >
@@ -33,7 +33,7 @@
 >
 ## Sửa thông tin thành viên
 > **Đường dẫn:**
->> https://lvl-smart-algae.herokuapp.com/api/user
+>> https://smart-agri-man.herokuapp.com/api/user
 >
 > **Phương thức: PUT**
 >
